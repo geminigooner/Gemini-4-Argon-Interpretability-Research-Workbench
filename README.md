@@ -2,7 +2,7 @@
 
 Author: Amanda Hatley
 Status: Draft v0 (restructured from a working notes document; all wording to be revised in the author's voice)
-Date: [FILL IN: date]
+Date: Oct 20 2026
 
 ## Abstract
 
@@ -125,6 +125,34 @@ Measurement and controls: [FILL IN: which audio system, which acoustic features,
 - Google, Gemini Audio platform documentation [FILL IN: full citation and URL]
 - [FILL IN: additional references]
 
-## Next Steps
+## Research Roadmap
 
-[FILL IN: concrete next actions, in order. Examples to consider: confirm the research question, check which endpoints and tools are accessible, choose the first experiment to pilot, and identify where the cornhole demonstration and safety report can be read directly.]
+### Phase 1: Source Verification
+- [ ] Confirm API access and supported model capabilities.
+- [ ] Verify Argon model documentation and technical specifications.
+- [ ] Locate the original cornhole robotics demonstration.
+- [ ] Review Google's safety report and verify the reported shortcut findings.
+
+### Phase 2: Experimental Design
+- [ ] Define the primary research question and measurable outcomes.
+- [ ] Establish controlled conditions, repeatable prompts, and evaluation criteria.
+- [ ] Document confounds, limitations, and reproducibility requirements.
+
+### Phase 3: Pilot Experiments
+- [ ] Pilot Protocol A: Cross-Modal Transfer.
+- [ ] Pilot Protocol B: Context Shift.
+- [ ] Validate Protocol C: Heuristic Shortcut Audit against its original source.
+- [ ] Compare models where API access permits.
+
+### Phase 4: Analysis and Reporting
+- [ ] Validate response logging, latency measurements, and JSON/CSV exports.
+- [ ] Analyze behavioral differences and uncertainty indicators.
+- [ ] Document preliminary findings and methodological limitations.
+- [ ] Publish reproducible methods, source citations, and sanitized experimental records.
+
+**Research integrity:** Distinguish verified facts, empirical observations,
+analytical interpretations, hypotheses, and proposed experiments.
+Do not present simulations as actual model telemetry or generated
+explanations as direct evidence of internal reasoning.
+
+
