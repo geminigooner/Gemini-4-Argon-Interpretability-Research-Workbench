@@ -1,6 +1,6 @@
 # Invariance and Variation in Gemini 4 Argon: A Research Proposal
 
-Author: [FILL IN: your name or handle]
+Author: Amanda Hatley
 Status: Draft v0 (restructured from a working notes document; all wording to be revised in the author's voice)
 Date: [FILL IN: date]
 
