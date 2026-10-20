@@ -1,0 +1,7 @@
+{
+  "name": "Gemini 4 Argon Interpretability Workbench",
+  "description": "An interactive laboratory environment and experimental workbench based on Gemini 4 Argon architectural analysis, covering sparse MoE routing, cross-modal transfer, and reasoning faithfulness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
